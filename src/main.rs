@@ -1,4 +1,5 @@
 pub mod buffer;
+pub mod io;
 fn main() {
     let string = "tesaoiesntraoinstaoisrentoarient aorsiten aositn       oinoin   \ntest\ntea";
     let buff = buffer::Buffer::new_from_string(string);
