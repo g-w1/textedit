@@ -1,11 +1,18 @@
 use crate::buffer::Buffer;
+use crate::core_edit::editor::Editor;
 use std::io::{stdout, Write};
 use termion::clear;
-use termion::raw::IntoRawMode;
+use termion::cursor::Goto;
 use termion::terminal_size;
 
-fn display_buff_clear_all(buff: Buffer, stdout: &mut Write) {
-    write!(stdout, "{}", clear::All).unwrap();
-    let lines = buff.get_grid(terminal_size().unwrap().0.into());
-    write!(stdout, "{:?}", lines);
+impl Buffer {
+    pub fn display_buff_clear_all(&self) {
+        print!("{}", clear::All);
+        let lines = &self.content;
+
+        for (num, line) in lines.iter().enumerate() {
+            print!("{}", Goto(1, num as u16 + 1));
+            println!("{}", line);
+        }
+    }
 }

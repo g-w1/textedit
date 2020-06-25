@@ -4,8 +4,15 @@ pub struct Buffer {
 }
 
 impl Buffer {
-    pub fn new_from_string(str_to_convert: &str) -> Buffer {
+    pub fn new_from_str(str_to_convert: &str) -> Buffer {
         let content_to_go_in_buff = str_to_convert.split("\n");
+        Buffer {
+            cursor_pos: (0, 0),
+            content: content_to_go_in_buff.map(|c| c.to_string()).collect(),
+        }
+    }
+    pub fn new_from_string(string_to_convert: String) -> Buffer {
+        let content_to_go_in_buff = string_to_convert.as_str().split("\n");
         Buffer {
             cursor_pos: (0, 0),
             content: content_to_go_in_buff.map(|c| c.to_string()).collect(),
@@ -29,5 +36,8 @@ impl Buffer {
             result.push(thing_to_split.to_owned());
         }
         result
+    }
+    pub fn insert_at(&mut self, place: (usize, usize), char_to_insert: char) {
+        self.content[place.1].insert(place.0, char_to_insert);
     }
 }

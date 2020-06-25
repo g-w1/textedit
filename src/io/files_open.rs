@@ -1,7 +1,7 @@
-use std::fs::read_to_string;
+// use std::fs::read_to_string;
 use std::fs::File;
-use std::io::{BufRead, BufReader, Error, Write};
 use std::io::prelude::*;
+// use std::io::{BufRead, BufReader, Error, Write};
 
 fn read_file(path: String) -> String {
     let mut file = File::open(path.as_str()).expect("file does not exist");
