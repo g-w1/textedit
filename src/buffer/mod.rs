@@ -1,5 +1,4 @@
 pub struct Buffer {
-    pub cursor_pos: (usize, usize),
     pub content: Vec<String>,
 }
 
@@ -7,14 +6,12 @@ impl Buffer {
     pub fn new_from_str(str_to_convert: &str) -> Buffer {
         let content_to_go_in_buff = str_to_convert.split("\n");
         Buffer {
-            cursor_pos: (0, 0),
             content: content_to_go_in_buff.map(|c| c.to_string()).collect(),
         }
     }
     pub fn new_from_string(string_to_convert: String) -> Buffer {
         let content_to_go_in_buff = string_to_convert.as_str().split("\n");
         Buffer {
-            cursor_pos: (0, 0),
             content: content_to_go_in_buff.map(|c| c.to_string()).collect(),
         }
     }

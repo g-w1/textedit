@@ -1,12 +1,13 @@
 use crate::io::key_getter::next_key;
+use termion::cursor::Goto;
 pub enum CursorType {
     Insert,
     Normal,
     Cmd,
 }
 pub struct Caret {
-    mode: CursorType,
-    pos: (usize, usize),
+    pub mode: CursorType,
+    pub pos: (usize, usize),
 }
 
 impl Caret {
@@ -14,9 +15,7 @@ impl Caret {
         self.mode = type_to_change_to;
     }
     pub fn handle_key() {}
-    pub fn goto(&mut self, pos: (usize, usize)) {
-
-
-
+    pub fn goto(&mut self) {
+        print!("{}", Goto(self.pos.0 as u16 + 1, self.pos.1 as u16 + 1));
     }
 }

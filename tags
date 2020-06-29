@@ -1,0 +1,252 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_FILESEP	slash	/slash or backslash/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/a3c87ab5/
+0	target/.rustc_info.json	/^{"rustc_fingerprint":6011828356022815095,"outputs":{"4476964694761187371":["___\\nlib___.rlib\\n/;"	s	array:outputs.1164083562126845933
+0	target/.rustc_info.json	/^{"rustc_fingerprint":6011828356022815095,"outputs":{"4476964694761187371":["___\\nlib___.rlib\\n/;"	s	array:outputs.4476964694761187371
+0	target/debug/.fingerprint/libc-2bd5c0f840747a5e/build-script-build_script_build-2bd5c0f840747a5e.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":10088282520713642/;"	o	array:local
+0	target/debug/.fingerprint/libc-81d059a7df4674da/lib-libc-81d059a7df4674da.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":15220052048028810/;"	a	array:deps
+0	target/debug/.fingerprint/libc-81d059a7df4674da/lib-libc-81d059a7df4674da.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":15220052048028810/;"	n	array:deps.0
+0	target/debug/.fingerprint/libc-81d059a7df4674da/lib-libc-81d059a7df4674da.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":15220052048028810/;"	o	array:local
+0	target/debug/.fingerprint/libc-86bfe278fc558195/build-script-build_script_build-86bfe278fc558195.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":100882825207136424/;"	o	array:local
+0	target/debug/.fingerprint/libc-a32d5c05430292ba/run-build-script-build_script_build-a32d5c05430292ba.json	/^{"rustc":11295616921483704964,"features":"","target":0,"profile":0,"path":0,"deps":[[53177506493/;"	a	array:deps
+0	target/debug/.fingerprint/libc-a32d5c05430292ba/run-build-script-build_script_build-a32d5c05430292ba.json	/^{"rustc":11295616921483704964,"features":"","target":0,"profile":0,"path":0,"deps":[[53177506493/;"	n	array:deps.0
+0	target/debug/.fingerprint/libc-a32d5c05430292ba/run-build-script-build_script_build-a32d5c05430292ba.json	/^{"rustc":11295616921483704964,"features":"","target":0,"profile":0,"path":0,"deps":[[53177506493/;"	o	array:local
+0	target/debug/.fingerprint/libc-e4dfce483ea4fe1d/lib-libc-e4dfce483ea4fe1d.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":152200520480288107/;"	a	array:deps
+0	target/debug/.fingerprint/libc-e4dfce483ea4fe1d/lib-libc-e4dfce483ea4fe1d.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":152200520480288107/;"	n	array:deps.0
+0	target/debug/.fingerprint/libc-e4dfce483ea4fe1d/lib-libc-e4dfce483ea4fe1d.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":152200520480288107/;"	o	array:local
+0	target/debug/.fingerprint/libc-e95e4f408abb198c/run-build-script-build_script_build-e95e4f408abb198c.json	/^{"rustc":5807094999684781751,"features":"","target":0,"profile":0,"path":0,"deps":[[531775064935/;"	a	array:deps
+0	target/debug/.fingerprint/libc-e95e4f408abb198c/run-build-script-build_script_build-e95e4f408abb198c.json	/^{"rustc":5807094999684781751,"features":"","target":0,"profile":0,"path":0,"deps":[[531775064935/;"	n	array:deps.0
+0	target/debug/.fingerprint/libc-e95e4f408abb198c/run-build-script-build_script_build-e95e4f408abb198c.json	/^{"rustc":5807094999684781751,"features":"","target":0,"profile":0,"path":0,"deps":[[531775064935/;"	o	array:local
+0	target/debug/.fingerprint/numtoa-dcc1d13045377a9d/lib-numtoa-dcc1d13045377a9d.json	/^{"rustc":11295616921483704964,"features":"[\\"std\\"]","target":15400807256885621794,"profile":9/;"	o	array:local
+0	target/debug/.fingerprint/numtoa-f4b9467ce4fd3cb2/lib-numtoa-f4b9467ce4fd3cb2.json	/^{"rustc":5807094999684781751,"features":"[\\"std\\"]","target":15400807256885621794,"profile":99/;"	o	array:local
+0	target/debug/.fingerprint/termedit-26adb24740ea4d4c/bin-termedit-26adb24740ea4d4c.json	/^{"rustc":11295616921483704964,"features":"[]","target":2212181733800990128,"profile":14996655781/;"	a	array:deps
+0	target/debug/.fingerprint/termedit-26adb24740ea4d4c/bin-termedit-26adb24740ea4d4c.json	/^{"rustc":11295616921483704964,"features":"[]","target":2212181733800990128,"profile":14996655781/;"	n	array:deps.0
+0	target/debug/.fingerprint/termedit-26adb24740ea4d4c/bin-termedit-26adb24740ea4d4c.json	/^{"rustc":11295616921483704964,"features":"[]","target":2212181733800990128,"profile":14996655781/;"	o	array:local
+0	target/debug/.fingerprint/termedit-88f65b1abfffe7da/bin-termedit-88f65b1abfffe7da.json	/^{"rustc":5807094999684781751,"features":"[]","target":2212181733800990128,"profile":149966557813/;"	a	array:deps
+0	target/debug/.fingerprint/termedit-88f65b1abfffe7da/bin-termedit-88f65b1abfffe7da.json	/^{"rustc":5807094999684781751,"features":"[]","target":2212181733800990128,"profile":149966557813/;"	n	array:deps.0
+0	target/debug/.fingerprint/termedit-88f65b1abfffe7da/bin-termedit-88f65b1abfffe7da.json	/^{"rustc":5807094999684781751,"features":"[]","target":2212181733800990128,"profile":149966557813/;"	o	array:local
+0	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	a	array:deps
+0	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	n	array:deps.0
+0	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	n	array:deps.1
+0	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	o	array:local
+0	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	a	array:deps
+0	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	n	array:deps.0
+0	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	n	array:deps.1
+0	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	o	array:local
+1	target/.rustc_info.json	/^{"rustc_fingerprint":6011828356022815095,"outputs":{"4476964694761187371":["___\\nlib___.rlib\\n/;"	s	array:outputs.1164083562126845933
+1	target/.rustc_info.json	/^{"rustc_fingerprint":6011828356022815095,"outputs":{"4476964694761187371":["___\\nlib___.rlib\\n/;"	s	array:outputs.4476964694761187371
+1	target/debug/.fingerprint/libc-81d059a7df4674da/lib-libc-81d059a7df4674da.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":15220052048028810/;"	s	array:deps.0
+1	target/debug/.fingerprint/libc-a32d5c05430292ba/run-build-script-build_script_build-a32d5c05430292ba.json	/^{"rustc":11295616921483704964,"features":"","target":0,"profile":0,"path":0,"deps":[[53177506493/;"	s	array:deps.0
+1	target/debug/.fingerprint/libc-e4dfce483ea4fe1d/lib-libc-e4dfce483ea4fe1d.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":152200520480288107/;"	s	array:deps.0
+1	target/debug/.fingerprint/libc-e95e4f408abb198c/run-build-script-build_script_build-e95e4f408abb198c.json	/^{"rustc":5807094999684781751,"features":"","target":0,"profile":0,"path":0,"deps":[[531775064935/;"	s	array:deps.0
+1	target/debug/.fingerprint/termedit-26adb24740ea4d4c/bin-termedit-26adb24740ea4d4c.json	/^{"rustc":11295616921483704964,"features":"[]","target":2212181733800990128,"profile":14996655781/;"	s	array:deps.0
+1	target/debug/.fingerprint/termedit-88f65b1abfffe7da/bin-termedit-88f65b1abfffe7da.json	/^{"rustc":5807094999684781751,"features":"[]","target":2212181733800990128,"profile":149966557813/;"	s	array:deps.0
+1	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	a	array:deps
+1	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	s	array:deps.0
+1	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	s	array:deps.1
+1	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	a	array:deps
+1	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	s	array:deps.0
+1	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	s	array:deps.1
+1164083562126845933	target/.rustc_info.json	/^{"rustc_fingerprint":6011828356022815095,"outputs":{"4476964694761187371":["___\\nlib___.rlib\\n/;"	a	object:outputs
+2	target/debug/.fingerprint/libc-81d059a7df4674da/lib-libc-81d059a7df4674da.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":15220052048028810/;"	b	array:deps.0
+2	target/debug/.fingerprint/libc-a32d5c05430292ba/run-build-script-build_script_build-a32d5c05430292ba.json	/^{"rustc":11295616921483704964,"features":"","target":0,"profile":0,"path":0,"deps":[[53177506493/;"	b	array:deps.0
+2	target/debug/.fingerprint/libc-e4dfce483ea4fe1d/lib-libc-e4dfce483ea4fe1d.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":152200520480288107/;"	b	array:deps.0
+2	target/debug/.fingerprint/libc-e95e4f408abb198c/run-build-script-build_script_build-e95e4f408abb198c.json	/^{"rustc":5807094999684781751,"features":"","target":0,"profile":0,"path":0,"deps":[[531775064935/;"	b	array:deps.0
+2	target/debug/.fingerprint/termedit-26adb24740ea4d4c/bin-termedit-26adb24740ea4d4c.json	/^{"rustc":11295616921483704964,"features":"[]","target":2212181733800990128,"profile":14996655781/;"	b	array:deps.0
+2	target/debug/.fingerprint/termedit-88f65b1abfffe7da/bin-termedit-88f65b1abfffe7da.json	/^{"rustc":5807094999684781751,"features":"[]","target":2212181733800990128,"profile":149966557813/;"	b	array:deps.0
+2	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	b	array:deps.0
+2	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	b	array:deps.1
+2	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	b	array:deps.0
+2	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	b	array:deps.1
+3	target/debug/.fingerprint/libc-81d059a7df4674da/lib-libc-81d059a7df4674da.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":15220052048028810/;"	n	array:deps.0
+3	target/debug/.fingerprint/libc-a32d5c05430292ba/run-build-script-build_script_build-a32d5c05430292ba.json	/^{"rustc":11295616921483704964,"features":"","target":0,"profile":0,"path":0,"deps":[[53177506493/;"	n	array:deps.0
+3	target/debug/.fingerprint/libc-e4dfce483ea4fe1d/lib-libc-e4dfce483ea4fe1d.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":152200520480288107/;"	n	array:deps.0
+3	target/debug/.fingerprint/libc-e95e4f408abb198c/run-build-script-build_script_build-e95e4f408abb198c.json	/^{"rustc":5807094999684781751,"features":"","target":0,"profile":0,"path":0,"deps":[[531775064935/;"	n	array:deps.0
+3	target/debug/.fingerprint/termedit-26adb24740ea4d4c/bin-termedit-26adb24740ea4d4c.json	/^{"rustc":11295616921483704964,"features":"[]","target":2212181733800990128,"profile":14996655781/;"	n	array:deps.0
+3	target/debug/.fingerprint/termedit-88f65b1abfffe7da/bin-termedit-88f65b1abfffe7da.json	/^{"rustc":5807094999684781751,"features":"[]","target":2212181733800990128,"profile":149966557813/;"	n	array:deps.0
+3	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	n	array:deps.0
+3	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	n	array:deps.1
+3	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	n	array:deps.0
+3	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	n	array:deps.1
+4476964694761187371	target/.rustc_info.json	/^{"rustc_fingerprint":6011828356022815095,"outputs":{"4476964694761187371":["___\\nlib___.rlib\\n/;"	a	object:outputs
+Buffer	src/buffer/mod.rs	/^impl Buffer {$/;"	c
+Buffer	src/buffer/mod.rs	/^pub struct Buffer {$/;"	s
+Buffer	src/io/graphics/dispbuffer.rs	/^impl Buffer {$/;"	c
+Caret	src/cursor/cursor.rs	/^impl Caret {$/;"	c
+Caret	src/cursor/cursor.rs	/^pub struct Caret {$/;"	s
+CheckDepInfo	target/debug/.fingerprint/libc-2bd5c0f840747a5e/build-script-build_script_build-2bd5c0f840747a5e.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":10088282520713642/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/libc-81d059a7df4674da/lib-libc-81d059a7df4674da.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":15220052048028810/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/libc-86bfe278fc558195/build-script-build_script_build-86bfe278fc558195.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":100882825207136424/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/libc-e4dfce483ea4fe1d/lib-libc-e4dfce483ea4fe1d.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":152200520480288107/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/numtoa-dcc1d13045377a9d/lib-numtoa-dcc1d13045377a9d.json	/^{"rustc":11295616921483704964,"features":"[\\"std\\"]","target":15400807256885621794,"profile":9/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/numtoa-f4b9467ce4fd3cb2/lib-numtoa-f4b9467ce4fd3cb2.json	/^{"rustc":5807094999684781751,"features":"[\\"std\\"]","target":15400807256885621794,"profile":99/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/termedit-26adb24740ea4d4c/bin-termedit-26adb24740ea4d4c.json	/^{"rustc":11295616921483704964,"features":"[]","target":2212181733800990128,"profile":14996655781/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/termedit-88f65b1abfffe7da/bin-termedit-88f65b1abfffe7da.json	/^{"rustc":5807094999684781751,"features":"[]","target":2212181733800990128,"profile":149966557813/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	o	object:local.0
+CheckDepInfo	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	o	object:local.0
+Cmd	src/cursor/cursor.rs	/^    Cmd,$/;"	e	enum:CursorType
+CursorType	src/cursor/cursor.rs	/^pub enum CursorType {$/;"	g
+Editor	src/core_edit/editor.rs	/^impl Editor {$/;"	c
+Editor	src/core_edit/editor.rs	/^pub struct Editor {$/;"	s
+Insert	src/cursor/cursor.rs	/^    Insert,$/;"	e	enum:CursorType
+Normal	src/cursor/cursor.rs	/^    Normal,$/;"	e	enum:CursorType
+Precalculated	target/debug/.fingerprint/libc-a32d5c05430292ba/run-build-script-build_script_build-a32d5c05430292ba.json	/^{"rustc":11295616921483704964,"features":"","target":0,"profile":0,"path":0,"deps":[[53177506493/;"	s	object:local.0
+Precalculated	target/debug/.fingerprint/libc-e95e4f408abb198c/run-build-script-build_script_build-e95e4f408abb198c.json	/^{"rustc":5807094999684781751,"features":"","target":0,"profile":0,"path":0,"deps":[[531775064935/;"	s	object:local.0
+TERMEDIT	README.md	/^# TERMEDIT$/;"	c
+buff	src/core_edit/editor.rs	/^    buff: Buffer,$/;"	m	struct:Editor
+buffer	src/main.rs	/^pub mod buffer;$/;"	n
+caret	src/core_edit/editor.rs	/^    caret: Caret,$/;"	m	struct:Editor
+change_shape	src/cursor/cursor.rs	/^    pub fn change_shape(&mut self, type_to_change_to: CursorType) {$/;"	P	implementation:Caret
+content	src/buffer/mod.rs	/^    pub content: Vec<String>,$/;"	m	struct:Buffer
+core_edit	src/main.rs	/^pub mod core_edit;$/;"	n
+cursor	src/cursor/mod.rs	/^pub mod cursor;$/;"	n
+cursor	src/main.rs	/^pub mod cursor;$/;"	n
+dep_info	target/debug/.fingerprint/libc-2bd5c0f840747a5e/build-script-build_script_build-2bd5c0f840747a5e.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":10088282520713642/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/libc-81d059a7df4674da/lib-libc-81d059a7df4674da.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":15220052048028810/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/libc-86bfe278fc558195/build-script-build_script_build-86bfe278fc558195.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":100882825207136424/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/libc-e4dfce483ea4fe1d/lib-libc-e4dfce483ea4fe1d.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":152200520480288107/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/numtoa-dcc1d13045377a9d/lib-numtoa-dcc1d13045377a9d.json	/^{"rustc":11295616921483704964,"features":"[\\"std\\"]","target":15400807256885621794,"profile":9/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/numtoa-f4b9467ce4fd3cb2/lib-numtoa-f4b9467ce4fd3cb2.json	/^{"rustc":5807094999684781751,"features":"[\\"std\\"]","target":15400807256885621794,"profile":99/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/termedit-26adb24740ea4d4c/bin-termedit-26adb24740ea4d4c.json	/^{"rustc":11295616921483704964,"features":"[]","target":2212181733800990128,"profile":14996655781/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/termedit-88f65b1abfffe7da/bin-termedit-88f65b1abfffe7da.json	/^{"rustc":5807094999684781751,"features":"[]","target":2212181733800990128,"profile":149966557813/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	s	object:local.0.CheckDepInfo
+dep_info	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	s	object:local.0.CheckDepInfo
+deps	target/debug/.fingerprint/libc-2bd5c0f840747a5e/build-script-build_script_build-2bd5c0f840747a5e.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":10088282520713642/;"	a
+deps	target/debug/.fingerprint/libc-81d059a7df4674da/lib-libc-81d059a7df4674da.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":15220052048028810/;"	a
+deps	target/debug/.fingerprint/libc-86bfe278fc558195/build-script-build_script_build-86bfe278fc558195.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":100882825207136424/;"	a
+deps	target/debug/.fingerprint/libc-a32d5c05430292ba/run-build-script-build_script_build-a32d5c05430292ba.json	/^{"rustc":11295616921483704964,"features":"","target":0,"profile":0,"path":0,"deps":[[53177506493/;"	a
+deps	target/debug/.fingerprint/libc-e4dfce483ea4fe1d/lib-libc-e4dfce483ea4fe1d.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":152200520480288107/;"	a
+deps	target/debug/.fingerprint/libc-e95e4f408abb198c/run-build-script-build_script_build-e95e4f408abb198c.json	/^{"rustc":5807094999684781751,"features":"","target":0,"profile":0,"path":0,"deps":[[531775064935/;"	a
+deps	target/debug/.fingerprint/numtoa-dcc1d13045377a9d/lib-numtoa-dcc1d13045377a9d.json	/^{"rustc":11295616921483704964,"features":"[\\"std\\"]","target":15400807256885621794,"profile":9/;"	a
+deps	target/debug/.fingerprint/numtoa-f4b9467ce4fd3cb2/lib-numtoa-f4b9467ce4fd3cb2.json	/^{"rustc":5807094999684781751,"features":"[\\"std\\"]","target":15400807256885621794,"profile":99/;"	a
+deps	target/debug/.fingerprint/termedit-26adb24740ea4d4c/bin-termedit-26adb24740ea4d4c.json	/^{"rustc":11295616921483704964,"features":"[]","target":2212181733800990128,"profile":14996655781/;"	a
+deps	target/debug/.fingerprint/termedit-88f65b1abfffe7da/bin-termedit-88f65b1abfffe7da.json	/^{"rustc":5807094999684781751,"features":"[]","target":2212181733800990128,"profile":149966557813/;"	a
+deps	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	a
+deps	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	a
+dispbuffer	src/io/graphics/mod.rs	/^pub mod dispbuffer;$/;"	n
+display_buff_clear_all	src/io/graphics/dispbuffer.rs	/^    pub fn display_buff_clear_all(&self) {$/;"	P	implementation:Buffer
+editor	src/core_edit/mod.rs	/^pub mod editor;$/;"	n
+features	target/debug/.fingerprint/libc-2bd5c0f840747a5e/build-script-build_script_build-2bd5c0f840747a5e.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":10088282520713642/;"	s
+features	target/debug/.fingerprint/libc-81d059a7df4674da/lib-libc-81d059a7df4674da.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":15220052048028810/;"	s
+features	target/debug/.fingerprint/libc-86bfe278fc558195/build-script-build_script_build-86bfe278fc558195.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":100882825207136424/;"	s
+features	target/debug/.fingerprint/libc-a32d5c05430292ba/run-build-script-build_script_build-a32d5c05430292ba.json	/^{"rustc":11295616921483704964,"features":"","target":0,"profile":0,"path":0,"deps":[[53177506493/;"	s
+features	target/debug/.fingerprint/libc-e4dfce483ea4fe1d/lib-libc-e4dfce483ea4fe1d.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":152200520480288107/;"	s
+features	target/debug/.fingerprint/libc-e95e4f408abb198c/run-build-script-build_script_build-e95e4f408abb198c.json	/^{"rustc":5807094999684781751,"features":"","target":0,"profile":0,"path":0,"deps":[[531775064935/;"	s
+features	target/debug/.fingerprint/numtoa-dcc1d13045377a9d/lib-numtoa-dcc1d13045377a9d.json	/^{"rustc":11295616921483704964,"features":"[\\"std\\"]","target":15400807256885621794,"profile":9/;"	s
+features	target/debug/.fingerprint/numtoa-f4b9467ce4fd3cb2/lib-numtoa-f4b9467ce4fd3cb2.json	/^{"rustc":5807094999684781751,"features":"[\\"std\\"]","target":15400807256885621794,"profile":99/;"	s
+features	target/debug/.fingerprint/termedit-26adb24740ea4d4c/bin-termedit-26adb24740ea4d4c.json	/^{"rustc":11295616921483704964,"features":"[]","target":2212181733800990128,"profile":14996655781/;"	s
+features	target/debug/.fingerprint/termedit-88f65b1abfffe7da/bin-termedit-88f65b1abfffe7da.json	/^{"rustc":5807094999684781751,"features":"[]","target":2212181733800990128,"profile":149966557813/;"	s
+features	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	s
+features	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	s
+files_open	src/io/mod.rs	/^pub mod files_open;$/;"	n
+get_grid	src/buffer/mod.rs	/^    pub fn get_grid(&self, width: usize) -> Vec<String> {$/;"	P	implementation:Buffer
+goto	src/cursor/cursor.rs	/^    pub fn goto(&mut self) {$/;"	P	implementation:Caret
+graphics	src/io/mod.rs	/^pub mod graphics;$/;"	n
+handle_key	src/cursor/cursor.rs	/^    pub fn handle_key() {}$/;"	P	implementation:Caret
+insert_at	src/buffer/mod.rs	/^    pub fn insert_at(&mut self, place: (usize, usize), char_to_insert: char) {$/;"	P	implementation:Buffer
+io	src/main.rs	/^pub mod io;$/;"	n
+key_getter	src/io/mod.rs	/^pub mod key_getter;$/;"	n
+local	target/debug/.fingerprint/libc-2bd5c0f840747a5e/build-script-build_script_build-2bd5c0f840747a5e.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":10088282520713642/;"	a
+local	target/debug/.fingerprint/libc-81d059a7df4674da/lib-libc-81d059a7df4674da.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":15220052048028810/;"	a
+local	target/debug/.fingerprint/libc-86bfe278fc558195/build-script-build_script_build-86bfe278fc558195.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":100882825207136424/;"	a
+local	target/debug/.fingerprint/libc-a32d5c05430292ba/run-build-script-build_script_build-a32d5c05430292ba.json	/^{"rustc":11295616921483704964,"features":"","target":0,"profile":0,"path":0,"deps":[[53177506493/;"	a
+local	target/debug/.fingerprint/libc-e4dfce483ea4fe1d/lib-libc-e4dfce483ea4fe1d.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":152200520480288107/;"	a
+local	target/debug/.fingerprint/libc-e95e4f408abb198c/run-build-script-build_script_build-e95e4f408abb198c.json	/^{"rustc":5807094999684781751,"features":"","target":0,"profile":0,"path":0,"deps":[[531775064935/;"	a
+local	target/debug/.fingerprint/numtoa-dcc1d13045377a9d/lib-numtoa-dcc1d13045377a9d.json	/^{"rustc":11295616921483704964,"features":"[\\"std\\"]","target":15400807256885621794,"profile":9/;"	a
+local	target/debug/.fingerprint/numtoa-f4b9467ce4fd3cb2/lib-numtoa-f4b9467ce4fd3cb2.json	/^{"rustc":5807094999684781751,"features":"[\\"std\\"]","target":15400807256885621794,"profile":99/;"	a
+local	target/debug/.fingerprint/termedit-26adb24740ea4d4c/bin-termedit-26adb24740ea4d4c.json	/^{"rustc":11295616921483704964,"features":"[]","target":2212181733800990128,"profile":14996655781/;"	a
+local	target/debug/.fingerprint/termedit-88f65b1abfffe7da/bin-termedit-88f65b1abfffe7da.json	/^{"rustc":5807094999684781751,"features":"[]","target":2212181733800990128,"profile":149966557813/;"	a
+local	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	a
+local	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	a
+main	src/main.rs	/^fn main() {$/;"	f
+main_fn	src/core_edit/editor.rs	/^    pub fn main_fn(&mut self) {$/;"	P	implementation:Editor
+metadata	target/debug/.fingerprint/libc-2bd5c0f840747a5e/build-script-build_script_build-2bd5c0f840747a5e.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":10088282520713642/;"	n
+metadata	target/debug/.fingerprint/libc-81d059a7df4674da/lib-libc-81d059a7df4674da.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":15220052048028810/;"	n
+metadata	target/debug/.fingerprint/libc-86bfe278fc558195/build-script-build_script_build-86bfe278fc558195.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":100882825207136424/;"	n
+metadata	target/debug/.fingerprint/libc-a32d5c05430292ba/run-build-script-build_script_build-a32d5c05430292ba.json	/^{"rustc":11295616921483704964,"features":"","target":0,"profile":0,"path":0,"deps":[[53177506493/;"	n
+metadata	target/debug/.fingerprint/libc-e4dfce483ea4fe1d/lib-libc-e4dfce483ea4fe1d.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":152200520480288107/;"	n
+metadata	target/debug/.fingerprint/libc-e95e4f408abb198c/run-build-script-build_script_build-e95e4f408abb198c.json	/^{"rustc":5807094999684781751,"features":"","target":0,"profile":0,"path":0,"deps":[[531775064935/;"	n
+metadata	target/debug/.fingerprint/numtoa-dcc1d13045377a9d/lib-numtoa-dcc1d13045377a9d.json	/^{"rustc":11295616921483704964,"features":"[\\"std\\"]","target":15400807256885621794,"profile":9/;"	n
+metadata	target/debug/.fingerprint/numtoa-f4b9467ce4fd3cb2/lib-numtoa-f4b9467ce4fd3cb2.json	/^{"rustc":5807094999684781751,"features":"[\\"std\\"]","target":15400807256885621794,"profile":99/;"	n
+metadata	target/debug/.fingerprint/termedit-26adb24740ea4d4c/bin-termedit-26adb24740ea4d4c.json	/^{"rustc":11295616921483704964,"features":"[]","target":2212181733800990128,"profile":14996655781/;"	n
+metadata	target/debug/.fingerprint/termedit-88f65b1abfffe7da/bin-termedit-88f65b1abfffe7da.json	/^{"rustc":5807094999684781751,"features":"[]","target":2212181733800990128,"profile":149966557813/;"	n
+metadata	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	n
+metadata	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	n
+mode	src/cursor/cursor.rs	/^    pub mode: CursorType,$/;"	m	struct:Caret
+new	src/core_edit/editor.rs	/^    pub fn new(buff: Buffer) -> Editor {$/;"	P	implementation:Editor
+new_from_str	src/buffer/mod.rs	/^    pub fn new_from_str(str_to_convert: &str) -> Buffer {$/;"	P	implementation:Buffer
+new_from_string	src/buffer/mod.rs	/^    pub fn new_from_string(string_to_convert: String) -> Buffer {$/;"	P	implementation:Buffer
+next_key	src/io/key_getter.rs	/^pub fn next_key() -> Result<Key, std::io::Error> {$/;"	f
+outputs	target/.rustc_info.json	/^{"rustc_fingerprint":6011828356022815095,"outputs":{"4476964694761187371":["___\\nlib___.rlib\\n/;"	o
+parse	src/io/mod.rs	/^pub mod parse;$/;"	n
+path	target/debug/.fingerprint/libc-2bd5c0f840747a5e/build-script-build_script_build-2bd5c0f840747a5e.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":10088282520713642/;"	n
+path	target/debug/.fingerprint/libc-81d059a7df4674da/lib-libc-81d059a7df4674da.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":15220052048028810/;"	n
+path	target/debug/.fingerprint/libc-86bfe278fc558195/build-script-build_script_build-86bfe278fc558195.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":100882825207136424/;"	n
+path	target/debug/.fingerprint/libc-a32d5c05430292ba/run-build-script-build_script_build-a32d5c05430292ba.json	/^{"rustc":11295616921483704964,"features":"","target":0,"profile":0,"path":0,"deps":[[53177506493/;"	n
+path	target/debug/.fingerprint/libc-e4dfce483ea4fe1d/lib-libc-e4dfce483ea4fe1d.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":152200520480288107/;"	n
+path	target/debug/.fingerprint/libc-e95e4f408abb198c/run-build-script-build_script_build-e95e4f408abb198c.json	/^{"rustc":5807094999684781751,"features":"","target":0,"profile":0,"path":0,"deps":[[531775064935/;"	n
+path	target/debug/.fingerprint/numtoa-dcc1d13045377a9d/lib-numtoa-dcc1d13045377a9d.json	/^{"rustc":11295616921483704964,"features":"[\\"std\\"]","target":15400807256885621794,"profile":9/;"	n
+path	target/debug/.fingerprint/numtoa-f4b9467ce4fd3cb2/lib-numtoa-f4b9467ce4fd3cb2.json	/^{"rustc":5807094999684781751,"features":"[\\"std\\"]","target":15400807256885621794,"profile":99/;"	n
+path	target/debug/.fingerprint/termedit-26adb24740ea4d4c/bin-termedit-26adb24740ea4d4c.json	/^{"rustc":11295616921483704964,"features":"[]","target":2212181733800990128,"profile":14996655781/;"	n
+path	target/debug/.fingerprint/termedit-88f65b1abfffe7da/bin-termedit-88f65b1abfffe7da.json	/^{"rustc":5807094999684781751,"features":"[]","target":2212181733800990128,"profile":149966557813/;"	n
+path	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	n
+path	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	n
+pos	src/cursor/cursor.rs	/^    pub pos: (usize, usize),$/;"	m	struct:Caret
+profile	target/debug/.fingerprint/libc-2bd5c0f840747a5e/build-script-build_script_build-2bd5c0f840747a5e.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":10088282520713642/;"	n
+profile	target/debug/.fingerprint/libc-81d059a7df4674da/lib-libc-81d059a7df4674da.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":15220052048028810/;"	n
+profile	target/debug/.fingerprint/libc-86bfe278fc558195/build-script-build_script_build-86bfe278fc558195.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":100882825207136424/;"	n
+profile	target/debug/.fingerprint/libc-a32d5c05430292ba/run-build-script-build_script_build-a32d5c05430292ba.json	/^{"rustc":11295616921483704964,"features":"","target":0,"profile":0,"path":0,"deps":[[53177506493/;"	n
+profile	target/debug/.fingerprint/libc-e4dfce483ea4fe1d/lib-libc-e4dfce483ea4fe1d.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":152200520480288107/;"	n
+profile	target/debug/.fingerprint/libc-e95e4f408abb198c/run-build-script-build_script_build-e95e4f408abb198c.json	/^{"rustc":5807094999684781751,"features":"","target":0,"profile":0,"path":0,"deps":[[531775064935/;"	n
+profile	target/debug/.fingerprint/numtoa-dcc1d13045377a9d/lib-numtoa-dcc1d13045377a9d.json	/^{"rustc":11295616921483704964,"features":"[\\"std\\"]","target":15400807256885621794,"profile":9/;"	n
+profile	target/debug/.fingerprint/numtoa-f4b9467ce4fd3cb2/lib-numtoa-f4b9467ce4fd3cb2.json	/^{"rustc":5807094999684781751,"features":"[\\"std\\"]","target":15400807256885621794,"profile":99/;"	n
+profile	target/debug/.fingerprint/termedit-26adb24740ea4d4c/bin-termedit-26adb24740ea4d4c.json	/^{"rustc":11295616921483704964,"features":"[]","target":2212181733800990128,"profile":14996655781/;"	n
+profile	target/debug/.fingerprint/termedit-88f65b1abfffe7da/bin-termedit-88f65b1abfffe7da.json	/^{"rustc":5807094999684781751,"features":"[]","target":2212181733800990128,"profile":149966557813/;"	n
+profile	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	n
+profile	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	n
+read_file	src/io/files_open.rs	/^fn read_file(path: String) -> String {$/;"	f
+recsplit	src/buffer/mod.rs	/^    fn recsplit(thing_to_split: String, width: usize) -> Vec<String> {$/;"	P	implementation:Buffer
+rustc	target/debug/.fingerprint/libc-2bd5c0f840747a5e/build-script-build_script_build-2bd5c0f840747a5e.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":10088282520713642/;"	n
+rustc	target/debug/.fingerprint/libc-81d059a7df4674da/lib-libc-81d059a7df4674da.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":15220052048028810/;"	n
+rustc	target/debug/.fingerprint/libc-86bfe278fc558195/build-script-build_script_build-86bfe278fc558195.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":100882825207136424/;"	n
+rustc	target/debug/.fingerprint/libc-a32d5c05430292ba/run-build-script-build_script_build-a32d5c05430292ba.json	/^{"rustc":11295616921483704964,"features":"","target":0,"profile":0,"path":0,"deps":[[53177506493/;"	n
+rustc	target/debug/.fingerprint/libc-e4dfce483ea4fe1d/lib-libc-e4dfce483ea4fe1d.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":152200520480288107/;"	n
+rustc	target/debug/.fingerprint/libc-e95e4f408abb198c/run-build-script-build_script_build-e95e4f408abb198c.json	/^{"rustc":5807094999684781751,"features":"","target":0,"profile":0,"path":0,"deps":[[531775064935/;"	n
+rustc	target/debug/.fingerprint/numtoa-dcc1d13045377a9d/lib-numtoa-dcc1d13045377a9d.json	/^{"rustc":11295616921483704964,"features":"[\\"std\\"]","target":15400807256885621794,"profile":9/;"	n
+rustc	target/debug/.fingerprint/numtoa-f4b9467ce4fd3cb2/lib-numtoa-f4b9467ce4fd3cb2.json	/^{"rustc":5807094999684781751,"features":"[\\"std\\"]","target":15400807256885621794,"profile":99/;"	n
+rustc	target/debug/.fingerprint/termedit-26adb24740ea4d4c/bin-termedit-26adb24740ea4d4c.json	/^{"rustc":11295616921483704964,"features":"[]","target":2212181733800990128,"profile":14996655781/;"	n
+rustc	target/debug/.fingerprint/termedit-88f65b1abfffe7da/bin-termedit-88f65b1abfffe7da.json	/^{"rustc":5807094999684781751,"features":"[]","target":2212181733800990128,"profile":149966557813/;"	n
+rustc	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	n
+rustc	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	n
+rustc_fingerprint	target/.rustc_info.json	/^{"rustc_fingerprint":6011828356022815095,"outputs":{"4476964694761187371":["___\\nlib___.rlib\\n/;"	n
+rustflags	target/debug/.fingerprint/libc-2bd5c0f840747a5e/build-script-build_script_build-2bd5c0f840747a5e.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":10088282520713642/;"	a
+rustflags	target/debug/.fingerprint/libc-81d059a7df4674da/lib-libc-81d059a7df4674da.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":15220052048028810/;"	a
+rustflags	target/debug/.fingerprint/libc-86bfe278fc558195/build-script-build_script_build-86bfe278fc558195.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":100882825207136424/;"	a
+rustflags	target/debug/.fingerprint/libc-a32d5c05430292ba/run-build-script-build_script_build-a32d5c05430292ba.json	/^{"rustc":11295616921483704964,"features":"","target":0,"profile":0,"path":0,"deps":[[53177506493/;"	a
+rustflags	target/debug/.fingerprint/libc-e4dfce483ea4fe1d/lib-libc-e4dfce483ea4fe1d.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":152200520480288107/;"	a
+rustflags	target/debug/.fingerprint/libc-e95e4f408abb198c/run-build-script-build_script_build-e95e4f408abb198c.json	/^{"rustc":5807094999684781751,"features":"","target":0,"profile":0,"path":0,"deps":[[531775064935/;"	a
+rustflags	target/debug/.fingerprint/numtoa-dcc1d13045377a9d/lib-numtoa-dcc1d13045377a9d.json	/^{"rustc":11295616921483704964,"features":"[\\"std\\"]","target":15400807256885621794,"profile":9/;"	a
+rustflags	target/debug/.fingerprint/numtoa-f4b9467ce4fd3cb2/lib-numtoa-f4b9467ce4fd3cb2.json	/^{"rustc":5807094999684781751,"features":"[\\"std\\"]","target":15400807256885621794,"profile":99/;"	a
+rustflags	target/debug/.fingerprint/termedit-26adb24740ea4d4c/bin-termedit-26adb24740ea4d4c.json	/^{"rustc":11295616921483704964,"features":"[]","target":2212181733800990128,"profile":14996655781/;"	a
+rustflags	target/debug/.fingerprint/termedit-88f65b1abfffe7da/bin-termedit-88f65b1abfffe7da.json	/^{"rustc":5807094999684781751,"features":"[]","target":2212181733800990128,"profile":149966557813/;"	a
+rustflags	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	a
+rustflags	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	a
+start	src/core_edit/editor.rs	/^    pub fn start(&mut self) {$/;"	P	implementation:Editor
+successes	target/.rustc_info.json	/^{"rustc_fingerprint":6011828356022815095,"outputs":{"4476964694761187371":["___\\nlib___.rlib\\n/;"	o
+target	target/debug/.fingerprint/libc-2bd5c0f840747a5e/build-script-build_script_build-2bd5c0f840747a5e.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":10088282520713642/;"	n
+target	target/debug/.fingerprint/libc-81d059a7df4674da/lib-libc-81d059a7df4674da.json	/^{"rustc":11295616921483704964,"features":"[\\"default\\", \\"std\\"]","target":15220052048028810/;"	n
+target	target/debug/.fingerprint/libc-86bfe278fc558195/build-script-build_script_build-86bfe278fc558195.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":100882825207136424/;"	n
+target	target/debug/.fingerprint/libc-a32d5c05430292ba/run-build-script-build_script_build-a32d5c05430292ba.json	/^{"rustc":11295616921483704964,"features":"","target":0,"profile":0,"path":0,"deps":[[53177506493/;"	n
+target	target/debug/.fingerprint/libc-e4dfce483ea4fe1d/lib-libc-e4dfce483ea4fe1d.json	/^{"rustc":5807094999684781751,"features":"[\\"default\\", \\"std\\"]","target":152200520480288107/;"	n
+target	target/debug/.fingerprint/libc-e95e4f408abb198c/run-build-script-build_script_build-e95e4f408abb198c.json	/^{"rustc":5807094999684781751,"features":"","target":0,"profile":0,"path":0,"deps":[[531775064935/;"	n
+target	target/debug/.fingerprint/numtoa-dcc1d13045377a9d/lib-numtoa-dcc1d13045377a9d.json	/^{"rustc":11295616921483704964,"features":"[\\"std\\"]","target":15400807256885621794,"profile":9/;"	n
+target	target/debug/.fingerprint/numtoa-f4b9467ce4fd3cb2/lib-numtoa-f4b9467ce4fd3cb2.json	/^{"rustc":5807094999684781751,"features":"[\\"std\\"]","target":15400807256885621794,"profile":99/;"	n
+target	target/debug/.fingerprint/termedit-26adb24740ea4d4c/bin-termedit-26adb24740ea4d4c.json	/^{"rustc":11295616921483704964,"features":"[]","target":2212181733800990128,"profile":14996655781/;"	n
+target	target/debug/.fingerprint/termedit-88f65b1abfffe7da/bin-termedit-88f65b1abfffe7da.json	/^{"rustc":5807094999684781751,"features":"[]","target":2212181733800990128,"profile":149966557813/;"	n
+target	target/debug/.fingerprint/termion-e3abe89c67f30e75/lib-termion-e3abe89c67f30e75.json	/^{"rustc":5807094999684781751,"features":"[]","target":13573876545244281166,"profile":99359902807/;"	n
+target	target/debug/.fingerprint/termion-eed67468a52257fb/lib-termion-eed67468a52257fb.json	/^{"rustc":11295616921483704964,"features":"[]","target":13573876545244281166,"profile":9935990280/;"	n
