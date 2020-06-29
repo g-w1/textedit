@@ -1,6 +1,5 @@
-pub mod row;
-type Buff = Vec<String>
+use crate::row;
+type Buff = Vec<Row>;
 struct Buffer {
-    buff: ,
-
+    buff: Buff,
 }
